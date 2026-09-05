@@ -1,0 +1,1 @@
+{"name":"kell-rest-api","version":"1.0.0","private":true,"description":"Kell REST API powered by HTTPie","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18"},"dependencies":{"express":"^4.21.2","cors":"^2.8.5","httpie":"^3.2.1"}}
